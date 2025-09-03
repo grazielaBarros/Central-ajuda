@@ -1,0 +1,55 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #739baa; /* bege claro */
+  color: #010408;
+}
+
+/* Boas vindas*/
+.hero-section {
+  background: #123d68;
+  padding: 60px 20px;
+}
+
+.hero-section h1 {
+  color: #c5d1e2;
+  margin-bottom: 15px;
+}
+
+.hero-section p {
+  margin-bottom: 20px;
+  color: rgb(128, 156, 180);
+}
+
+/* FAQ */
+#faq h2 {
+  color: #084aad;
+  font-weight: bold;
+}
+
+
+/* Contato */
+#contato h2 {
+  color: #010408;
+  font-weight: bold;
+}
+
+#contato {
+  background-color: #315531 !important; /* verde bem suave */
+}
+
+form .btn {
+  background-color: #0f52b6;
+  border: none;
+}
+
+form .btn:hover {
+  background-color: #1e5dbd;
+}
+
+.bg-primary {
+    background-color: #577175 !important;
+}
+
+
